@@ -261,7 +261,6 @@ For support and questions:
 - Review the API documentation
 
 ## Future Enhancements
-
 - Database integration (MySQL/PostgreSQL)
 - Email certificate delivery
 - Advanced template designer
